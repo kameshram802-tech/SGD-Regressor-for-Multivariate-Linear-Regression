@@ -119,7 +119,7 @@ print("Predicted values:", y_pred)
 
 
 ## Output:
-![multivariate linear regression model for predicting the price of the house and number of occupants in the house](sam.png)
+<img width="655" height="86" alt="image" src="https://github.com/user-attachments/assets/41bd92ed-7b5b-4ca1-a9dd-14fccb3326a7" />
 
 
 ## Result:
